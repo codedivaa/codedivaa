@@ -22,6 +22,5 @@ I am a Computer Science B.Tech student with a strong interest in Artificial Inte
 ![](https://github-contributor-stats.vercel.app/api?username=CODEDIVAA&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=CODEDIVAA&icon=7&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
