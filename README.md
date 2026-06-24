@@ -84,8 +84,8 @@ Exploring AI, data, and whatever looks interesting enough to build. I turn rando
 
 ### ✍️ Random Dev Quote
 <div align="center">
-  
-!https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
