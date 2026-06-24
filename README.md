@@ -1,11 +1,17 @@
 # 💫 About Me:
 Exploring AI, data, and whatever looks interesting enough to build. I turn random ideas into apps, experiments, and websites, break things to see how they actually work, and push my stack a bit further every week. Currently in my learn fast, build faster era—new projects, posts of commits, and a lot of curiosity.Most of my repos started as “wait, what if…?” and somehow turned into working code.I build things nobody asked for, then tweak them until they’re oddly useful.
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F78CDA&center=true&vCenter=true&width=500&lines=Building+apps+%26+weird+ideas;AI+%7C+Data+%7C+Web;Currently+in+my+learn+fast+build+faster+era" alt="Typing SVG" />
+</p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavi-singh-947685263) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibs2112@gmail.com) 
 
-##✨ Tech Stack & Tools:
-## 💻 Languages
+## 🌐 Socials
+
+## ✨ Tech Stack & Tools
+### 💻 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -83,9 +89,13 @@ Exploring AI, data, and whatever looks interesting enough to build. I turn rando
 
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F78CDA&center=true&vCenter=true&width=500&lines=Building+apps+%26+weird+ideas;AI+%7C+Data+%7C+Web;Currently+in+my+learn+fast+build+faster+era" alt="Typing SVG" />
-</p>
+## 🌌 3D Contributions
+
+<div align="center">
+
+![3D Contributions](https://github-profile-3d-contrib.vercel.app/api?username=CODEDIVAA)
+
+</div>
 
 ### ✍️ Random Dev Quote
 
