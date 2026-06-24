@@ -4,7 +4,7 @@ Exploring AI, data, and whatever looks interesting enough to build. I turn rando
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavi-singh-947685263) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibs2112@gmail.com) 
 
-#✨ Tech Stack & Tools:
+##✨ Tech Stack & Tools:
 ## 💻 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -71,6 +71,7 @@ Exploring AI, data, and whatever looks interesting enough to build. I turn rando
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 # 📊 GitHub Stats:
 <div align="center">
 
@@ -81,6 +82,10 @@ Exploring AI, data, and whatever looks interesting enough to build. I turn rando
 ![https://github-readme-stats.shion.dev/api/top-langs/?username=CODEDIVAA&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact](https://github-readme-stats.shion.dev/api/top-langs/?username=CODEDIVAA&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F78CDA&center=true&vCenter=true&width=500&lines=Building+apps+%26+weird+ideas;AI+%7C+Data+%7C+Web;Currently+in+my+learn+fast+build+faster+era" alt="Typing SVG" />
+</p>
 
 ### ✍️ Random Dev Quote
 
