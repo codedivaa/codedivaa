@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a Computer Science B.Tech student with a strong interest in Artificial Intelligence, Data Science, and emerging technologies. As a beginner, I am actively learning different branches of computer science and building small projects to strengthen my understanding. I enjoy experimenting, exploring new tools, and applying concepts through hands-on practice.
+Exploring AI, data, and whatever looks interesting enough to build.
+I turn random ideas into apps, experiments, and websites, break things to see how they actually work, and push my stack a bit further every week.
+Currently in my learn fast, build faster era—new projects, posts of commits, and a lot of curiosity.
 
 
 ## 🌐 Socials:
