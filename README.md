@@ -89,11 +89,9 @@ Exploring AI, data, and whatever looks interesting enough to build. I turn rando
 
 </div>
 
-## 🌌 3D Contributions
-
 <div align="center">
 
-![3D Contributions](https://github-profile-3d-contrib.vercel.app/api?username=CODEDIVAA)
+![My GitHub Contribution Stats](https://github-contribution-card.vercel.app/api?username=CODEDIVAA&theme=neon)
 
 </div>
 
