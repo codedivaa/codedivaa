@@ -1,8 +1,5 @@
 # 💫 About Me:
-Exploring AI, data, and whatever looks interesting enough to build.
-I turn random ideas into apps, experiments, and websites, break things to see how they actually work, and push my stack a bit further every week.
-Currently in my learn fast, build faster era—new projects, posts of commits, and a lot of curiosity.
-
+Exploring AI, data, and whatever looks interesting enough to build. I turn random ideas into apps, experiments, and websites, break things to see how they actually work, and push my stack a bit further every week. Currently in my learn fast, build faster era—new projects, posts of commits, and a lot of curiosity.Most of my repos started as “wait, what if…?” and somehow turned into working code.I build things nobody asked for, then tweak them until they’re oddly useful.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavi-singh-947685263) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibs2112@gmail.com) 
