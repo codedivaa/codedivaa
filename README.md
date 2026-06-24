@@ -83,11 +83,10 @@ Exploring AI, data, and whatever looks interesting enough to build. I turn rando
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  
+!https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CODEDIVAA&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
