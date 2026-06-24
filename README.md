@@ -72,9 +72,15 @@ Exploring AI, data, and whatever looks interesting enough to build. I turn rando
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=CODEDIVAA&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=CODEDIVAA&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=CODEDIVAA&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+![https://github-readme-stats.shion.dev/api?username=CODEDIVAA&theme=neon&hide_border=false&include_all_commits=true&count_private=true](https://github-readme-stats.shion.dev/api?username=CODEDIVAA&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![https://streak-stats.demolab.com/?user=CODEDIVAA&theme=neon&hide_border=false](https://streak-stats.demolab.com/?user=CODEDIVAA&theme=neon&hide_border=false)<br/>
+
+![https://github-readme-stats.shion.dev/api/top-langs/?username=CODEDIVAA&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact](https://github-readme-stats.shion.dev/api/top-langs/?username=CODEDIVAA&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
